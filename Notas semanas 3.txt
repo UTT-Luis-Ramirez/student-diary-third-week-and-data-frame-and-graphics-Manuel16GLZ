@@ -1,0 +1,30 @@
+Los objetos se manejan de forma que tienen un Key y un Value
+
+Key : Value
+
+DataFrame(
+      {
+       'Aleatorio simple' : sample ['Tiempo de desarrollo'].mean()
+
+     }
+)
+
+------------------------------------------------------
+
+Investigar como son y como se creean
+ 
+--los historigramas
+--diagramas de tallos y hojas
+--diagramas de caja
+
+1 ejemplo de c/u
+
+-- para que sirven en la programación
+-- como se generan
+-- como se crean
+
+---------------------------------------------------
+
+crear una muestra estratificada de un grupo de lenguaje de programación de 20 elemetos
+
+   
